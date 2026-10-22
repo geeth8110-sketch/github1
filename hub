@@ -1,0 +1,6 @@
+#include<stdio>
+int main()
+{
+printf("hello keerti and geeta and myself");
+return 0;
+}
